@@ -1,3 +1,3 @@
 # ExcelSampleFiles
-This is the Excel file describing about persons location their budget and their respective locations,this is very basic excel file for practice
+This is the Excel file describing about persons location their budget and their respective locations with dates,this is very basic excel file for practice
 Example:- Can perfrom SUMIFS,VLOOKUP,XLOOKUP,INDEX,MATCH,SUBTOTALS etc...
